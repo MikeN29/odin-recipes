@@ -1,0 +1,18 @@
+
+body {
+    background-color: rgb(229, 244, 241);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#recipeLinks {
+    width: 25%;
+    border-radius: 10px;
+    list-style: none;
+    background-color: white;
+}
+
+.section {
+    width: 60%;
+    border-radius: 10px;
+    background-color: white;
+}
